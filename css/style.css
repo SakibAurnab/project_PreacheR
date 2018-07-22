@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+body{
+	font-family: 'Nunito', sans-serif;
+	color: #807f7f;
+}
+img{
+	max-width: 100%;
+	display: block;
+}
+.banner-section{
+	padding: 130px 0;
+	padding-top: 150px;
+	background:#52585c url('../images/banner.png');
+	background-size: cover;
+}
+.head-line{
+	padding-top: 30px;
+}
+.banner-section h1{
+	 font-size: 50px;
+}
+.banner-section p{
+	font-size: 20px;
+}
+.banner-section h3{
+	font-size: 40px;
+}
+.app li{
+	padding: 10px 0;
+}
+.app li a{
+	color: white;
+    padding: 2em;
+    text-decoration: none;
+}
+.number h1{
+	border: 1px solid;
+    border-radius: 50%;
+    text-align: center;
+    width: 50px;
+}
+.heading h1{
+	font-size: 50px;
+	color: black;
+}
+.article{
+	background-color: #f5f5f5;
+}
+.article-contant{
+	padding-left: 115px;
+}
+.article-contant h1 strong{
+	color: black;
+}
+.article-contant span{
+	font-size: 70px;
+}
+.dream-contant img{
+	width: 150px;
+ 	height: 150px;
+ 	border-radius: 50%;
+ 	margin: 0 auto;
+}
+.icon{} li a{
+	color: #636363;
+}
+.future{
+	background-color: #efefef;
+}
+.log-in{
+	color: black;
+    text-decoration: none;
+    margin-top: 2em;
+}
+.future-contant{
+	padding-left: 115px;
+}
+.log-in li{
+	padding: 10px 0;
+}
+.log-in li a{
+	color: #9E9E9E;
+    padding: 2em;
+    text-decoration: none;
+}
+.log-in li a span{
+	padding-left: 1em;
+}
+.future-contant p a{
+	text-decoration: none;
+    color: black;
+}
+.future-contant h1 strong{
+	color: black;
+}
+.question a{
+	text-decoration: none;
+    padding: 13px;
+    background-color: orange;
+    color: black;
+}
